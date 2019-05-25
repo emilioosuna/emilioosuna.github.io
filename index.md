@@ -1,8 +1,9 @@
 ## Bienvendos a mi blog personal
 
-You can use the [editor on GitHub](https://github.com/emilioosuna/emilioosuna.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+"No importa lo estupendamente que haya ido la demo en los ensayos, cuando lo haces frente a tu audiencia la probabilidad de que sea una presentación existosa es inversamente proporcional al número de personas mirando"...-- Mark Gibbs
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+                                                                                Diseñador Web Programador Front & Back End
+                                                               3305 GUANARE VENEZUELA CEL: 0416-1932886· EJOHE54@GMAIL.COM.
 
 ### Markdown
 
