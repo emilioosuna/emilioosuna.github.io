@@ -1,6 +1,5 @@
-<div style="float: right">
-    "No importa lo estupendamente que haya ido la demo en los ensayos, cuando lo haces frente a tu audiencia la probabilidad de que sea una presentación existosa es inversamente proporcional al número de personas mirando"...-- Mark Gibbs![Image](yo2.jpg)
-</div>
+
+"No importa lo estupendamente que haya ido la demo en los ensayos, cuando lo haces frente a tu audiencia la probabilidad de que sea una presentación existosa es inversamente proporcional al número de personas mirando"...-- Mark Gibbs
 
 ### Especializacion
 
