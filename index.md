@@ -9,7 +9,7 @@
 
 Diseñador Web Programador Front & Back End
 
-![Image](src)
+![Image](lenguajes.png)
 
 ```markdown
 Syntax highlighted code block
