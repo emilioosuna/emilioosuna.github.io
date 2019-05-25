@@ -2,12 +2,13 @@
 
 "No importa lo estupendamente que haya ido la demo en los ensayos, cuando lo haces frente a tu audiencia la probabilidad de que sea una presentación existosa es inversamente proporcional al número de personas mirando"...-- Mark Gibbs
 
-                                                                                Diseñador Web Programador Front & Back End
-                                                               3305 GUANARE VENEZUELA CEL: 0416-1932886· EJOHE54@GMAIL.COM.
 
-### Markdown
+3305 GUANARE VENEZUELA CEL: 0416-1932886· EJOHE54@GMAIL.COM.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Especializacion
+
+Diseñador Web Programador Front & Back End
+![Image](src)
 
 ```markdown
 Syntax highlighted code block
