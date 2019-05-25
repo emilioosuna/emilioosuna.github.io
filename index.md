@@ -1,4 +1,4 @@
-![Image](lenguajes.png) ## Emilio J Osuna H
+![Image](yo2.jpg) ## Emilio J Osuna H
 
 "No importa lo estupendamente que haya ido la demo en los ensayos, cuando lo haces frente a tu audiencia la probabilidad de que sea una presentación existosa es inversamente proporcional al número de personas mirando"...-- Mark Gibbs
 
