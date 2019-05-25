@@ -24,9 +24,20 @@ ALCALDIA MUNICIPIO GUANARE**
 
 **DIRECTOR INFORMÁTICA
 ALCALDIA MUNICIPIO GUANARE**
->_Director, Informatics Department, control and process supervisor, personnel management, team
+>_Director, Informatics Department, control and process supervisor, personnal management, team
 >Agosto 2016 - Enero 2018_
 
-### Contacto
 
-3305 GUANARE VENEZUELA CEL: 0416-1932886· EJOHE54@GMAIL.COM.
+### Contacto
+No tengas miedo de renunciar a lo bueno para ir a por lo grandioso (John D. Rockefeller)
+
+**LLAMADAS**
++5804161932886
+
+**OFICINA**
+Palacio de Gobierno - Gobernacion del Estado Portuguesa
+
+**CORREO**
+EJOHE54@GMAIL.COM
+http://ejohe54@gmail.com
+
