@@ -38,6 +38,5 @@ No tengas miedo de renunciar a lo bueno para ir a por lo grandioso (John D. Rock
 Palacio de Gobierno - Gobernacion del Estado Portuguesa
 
 **CORREO**
-EJOHE54@GMAIL.COM
-http://ejohe54@gmail.com
+ejohe54@gmail.com
 
