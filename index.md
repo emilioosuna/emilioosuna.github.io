@@ -1,5 +1,6 @@
-![Image](yo2.jpg) ## Emilio J Osuna H
-
+<div style="float: right">
+    ![Image](yo2.jpg) "Emilio Osuna")
+</div>
 "No importa lo estupendamente que haya ido la demo en los ensayos, cuando lo haces frente a tu audiencia la probabilidad de que sea una presentación existosa es inversamente proporcional al número de personas mirando"...-- Mark Gibbs
 
 
